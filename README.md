@@ -1,8 +1,8 @@
-## Hi there 👋
+
 
 <!-- Profile README for ShlokPanchal_Hub -->
 
-<h2 align="center">👋 About Me:</h2>
+<h2 align="left">👋 About Me:</h2>
 
 Hey, I’m **Shlok Panchal** — an aspiring data scientist passionate about **Data Science, Machine Learning, Generative AI (GenAI), Large Language Models (LLMs), Natural Language Processing (NLP), AI Agents**, and **Causal Predictive Models (CPMs)**.
 
